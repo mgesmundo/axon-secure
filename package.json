@@ -1,7 +1,7 @@
 {
   "name": "axon-secure",
   "description": "High-level messaging & socket patterns with optionional encryption implemented in pure js",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "author": "Marcello Gesmundo <mgesmundo@yoovant.com>",
   "dependencies": {
     "debug": "~1.0.4",
@@ -32,10 +32,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/mgesmundo/axon.git"
+    "url": "https://github.com/mgesmundo/axon-secure.git"
   },
   "bugs": {
-    "url": "https://github.com/mgesmundo/axon/issues"
+    "url": "https://github.com/mgesmundo/axon-secure/issues"
   },
   "scripts": {
     "test": "make test"

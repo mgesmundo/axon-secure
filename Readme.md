@@ -397,7 +397,7 @@ $ make test
 
 ## Publisher
 
-  - [mgesmundo](https://github.com/mgesmundo)
+  - [mgesmundo](https://www.npmjs.org/~mgesmundo)
 
 ## Links
 
