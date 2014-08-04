@@ -1,7 +1,7 @@
 {
   "name": "axon-secure",
   "description": "High-level messaging & socket patterns with optionional encryption implemented in pure js",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "author": "Marcello Gesmundo <mgesmundo@yoovant.com>",
   "dependencies": {
     "debug": "~1.0.4",
